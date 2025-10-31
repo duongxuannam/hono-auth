@@ -1,0 +1,14 @@
+{
+  "editor.formatOnSave": false, // Disable default VSCode formatter
+  "eslint.enable": true,
+  "eslint.validate": [
+    "javascript",
+    "typescript",
+    "javascriptreact",
+    "typescriptreact"
+  ],
+  "eslint.format.enable": true, // Enable ESLint formatting via Prettier
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": "always"
+  }
+}
