@@ -1,1 +1,15 @@
 http://localhost:3000
+
+
+### Create a new user
+POST http://localhost:3000/api/auth/sign-up/email
+Content-Type: application/json
+
+{
+  "name": "XUan N323ams",
+  "email": "shrekdu32onsg@gmail.com",
+  "password": "namdaica",
+  "image": "",
+  "callbackURL": "",
+  "rememberMe": true
+}

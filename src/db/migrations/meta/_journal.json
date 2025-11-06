@@ -8,6 +8,13 @@
       "when": 1761941047812,
       "tag": "0000_awesome_stryfe",
       "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "7",
+      "when": 1762431657153,
+      "tag": "0001_talented_quasimodo",
+      "breakpoints": true
     }
   ]
 }
