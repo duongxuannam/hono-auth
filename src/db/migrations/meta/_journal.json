@@ -15,6 +15,13 @@
       "when": 1762431657153,
       "tag": "0001_talented_quasimodo",
       "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "7",
+      "when": 1762485651881,
+      "tag": "0002_rare_rawhide_kid",
+      "breakpoints": true
     }
   ]
 }

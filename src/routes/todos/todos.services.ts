@@ -1,6 +1,6 @@
+import { db } from '@/db/db';
+import { todos } from '@/db/schema';
 import { NewTodo, Todo } from '@/types/todo.type';
-import { todos } from './schema';
-import { db } from './db';
 import { eq } from 'drizzle-orm';
 
 const insertTodo = async (todo: NewTodo): Promise<Todo> => {
